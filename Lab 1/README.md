@@ -70,18 +70,9 @@ The interactive device can be anything *except* a computer, a tablet computer or
 
 \*\***Describe your setting, players, activity and goals here.**\*\*
 
-_Setting:_ This interaction happends in a gym when someone is working out.
-
-_Players:_ This system contains a wristband, a set of card readers, and a set of screens. The only human actor is the  exerciser involved in the interaction. Other exercisers may pass by when the interaction happens. 
-
-_Activity:_ The card readers and screens are installed near/on equipment at the gym. An exerciser could scan his/her wristband at the card reader. After identifying the current user, the screen shows his/her exercising plan, including the exercise to do, the weight he/she will use, and reps to do. After the user finishes the exercise, the screen shows his/her improvement and lead him/her to the next exercise. 
-
-_Goals:_ Since exercising needs a clear plan and routine, many exerciser plans their daily workout routine with their phones and carry it during workouts. However, there are two common problems: 1) one could easily get a phone stolen or damaged unintentionally. 2) people tend to play with phone during limited workout rest and forget why they come to the gym. The gym could easily identify a user and show workout guidelines on the equipment so customers satisfy with carrying less stuff to the gym and enjoy disrupting-free workouts.
-
 Sketch a storyboard of the interactions you are planning. It does not need to be perfect, but must get across the behavior of the interactive device and the other characters in the scene. 
 
 \*\***Include a picture of your storyboard here**\*\*
-![Storyboard](sb.jpg)
 
 Present your idea to the other people in your breakout room. You can just get feedback from one another or you can work together on the other parts of the lab.
 
