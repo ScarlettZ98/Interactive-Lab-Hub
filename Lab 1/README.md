@@ -69,8 +69,11 @@ _Goals:_ What are the goals of each player? (e.g., jumping to a tree, opening th
 The interactive device can be anything *except* a computer, a tablet computer or a smart phone, but the main way it interacts needs to be using light.
 
 \*\***Describe your setting, players, activity and goals here.**\*\*
+This interation happens in a parking lot. Drivers who are looking for a parking space are the players. Drivers can quickly judge if a row of spaces is fully occupied and avoid unnecessary driving. The goal is to use a light to indicate if the space is empty. 
 
 Sketch a storyboard of the interactions you are planning. It does not need to be perfect, but must get across the behavior of the interactive device and the other characters in the scene. 
+
+![Storyboard](sb.png)
 
 \*\***Include a picture of your storyboard here**\*\*
 
