@@ -68,8 +68,15 @@ _Goals:_ What are the goals of each player? (e.g., jumping to a tree, opening th
 
 The interactive device can be anything *except* a computer, a tablet computer or a smart phone, but the main way it interacts needs to be using light.
 
-\*\***Describe your setting, players, activity and goals here.**\*\*
-This interation happens in a parking lot. Drivers who are looking for a parking space are the players. Drivers can quickly judge if a row of spaces is fully occupied and avoid unnecessary driving. The goal is to use a light to indicate if the space is empty. 
+\*\***Describe your setting, players, activity and goals here.**\*\
+
+Setting: this interaction can happen in any indoor places with a window. Although the device fetches information all the time from Internet, it only interacts with human when there will be a rain. 
+
+Players: the room owner is involved. Nobody else is affected by this interaction.
+
+Activity: When the device finds out a storm or a rain is coming in the next two hours, it lights up to notify the room owner to close the windows.
+
+Goals: The goal of this device is to forcast bad weather, reminds the user taking a proper action to avoid water damage to his or her belongings near the window.  
 
 Sketch a storyboard of the interactions you are planning. It does not need to be perfect, but must get across the behavior of the interactive device and the other characters in the scene. 
 
@@ -80,16 +87,17 @@ Sketch a storyboard of the interactions you are planning. It does not need to be
 Present your idea to the other people in your breakout room. You can just get feedback from one another or you can work together on the other parts of the lab.
 
 \*\***Summarize feedback you got here.**\*\*
-
+Three classmates said this is a good idea, given the fact the recent rain in midnight damaged many homes. One of them felt 2 hours forecasting is too long and the system should report the weather in the next hour, and the resource of weather information should be reliable.
 
 ## Part B. Act out the Interaction
 
 Try physically acting out the interaction you planned. For now, you can just pretend the device is doing the things you’ve scripted for it. 
 
 \*\***Are there things that seemed better on paper than acted out?**\*\*
+Putting the device on the windowsill is troublesome since the user need to put it on another surface or hold it while closing the window so it doesn't get in the way, and manually turning the light off after closing the window seems a bit redundant. 
 
 \*\***Are there new ideas that occur to you or your collaborators that come up from the acting?**\*\*
-
+Instead of having the light on windowsill, I should integrated it to the window to make the windowsill neater, and the light should automatically detect if the window is closed so the user don't necessarily switch the light off. 
 
 ## Part C. Prototype the device
 
