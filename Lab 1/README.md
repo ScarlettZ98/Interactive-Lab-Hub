@@ -73,9 +73,9 @@ This interation happens in a parking lot. Drivers who are looking for a parking 
 
 Sketch a storyboard of the interactions you are planning. It does not need to be perfect, but must get across the behavior of the interactive device and the other characters in the scene. 
 
-![Storyboard](sb.jpg)
-
 \*\***Include a picture of your storyboard here**\*\*
+
+![Storyboard](sb.jpg)
 
 Present your idea to the other people in your breakout room. You can just get feedback from one another or you can work together on the other parts of the lab.
 
