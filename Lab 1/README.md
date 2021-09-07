@@ -110,12 +110,13 @@ We invented this tool for this lab!
 If you run into technical issues with this tool, you can also use a light switch, dimmer, etc. that you can can manually or remotely control.
 
 \*\***Give us feedback on Tinkerbelle.**\*\*
-
+It works on my devices and the document is well-written. 
 
 ## Part D. Wizard the device
 Take a little time to set up the wizarding set-up that allows for someone to remotely control the device while someone acts with it. Hint: You can use Zoom to record videos, and you can pin someone’s video feed if that is the scene which you want to record. 
 
 \*\***Include your first attempts at recording the set-up video here.**\*\*
+https://drive.google.com/file/d/1NTYpSybUqAkA5c-llj0MOQHYu3W6M_kT/view?usp=sharing
 
 Now, hange the goal within the same setting, and update the interaction with the paper prototype. 
 
@@ -129,17 +130,16 @@ Only now should you start worrying about what the device should look like. Devel
 Think about the setting of the device: is the environment a place where the device could overheat? Is water a danger? Does it need to have bright colors in an emergency setting?
 
 \*\***Include sketches of what your device might look like here.**\*\*
-
+![sketches](sketches.jpg)
 \*\***What concerns or opportunitities are influencing the way you've designed the device to look?**\*\*
-
+This device needs to be fixed on the inner side of a window. There's the risk that the device may fall down and get water damage. So a firm case for the phone is required. However, the best appearance of this device is a tiny bright light integrated into the inner window frame. 
 
 ## Part F. Record
 
 \*\***Take a video of your prototyped interaction.**\*\*
 
 \*\***Please indicate anyone you collaborated with on this Lab.**\*\*
-Be generous in acknowledging their contributions! And also recognizing any other influences (e.g. from YouTube, Github, Twitter) that informed your design. 
-
+I worked alone on this project and didn't refer to any resources. 
 
 
 # Staging Interaction, Part 2 
