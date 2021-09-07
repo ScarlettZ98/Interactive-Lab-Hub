@@ -110,7 +110,7 @@ We invented this tool for this lab!
 If you run into technical issues with this tool, you can also use a light switch, dimmer, etc. that you can can manually or remotely control.
 
 \*\***Give us feedback on Tinkerbelle.**\*\*
-It works on my devices and the document is well-written. 
+It works on my devices and the documentation is well-written. 
 
 ## Part D. Wizard the device
 Take a little time to set up the wizarding set-up that allows for someone to remotely control the device while someone acts with it. Hint: You can use Zoom to record videos, and you can pin someone’s video feed if that is the scene which you want to record. 
@@ -121,7 +121,8 @@ https://drive.google.com/file/d/1NTYpSybUqAkA5c-llj0MOQHYu3W6M_kT/view?usp=shari
 Now, hange the goal within the same setting, and update the interaction with the paper prototype. 
 
 \*\***Show the follow-up work here.**\*\*
-
+After testing with different positions of the light with paper prototype, I think putting the light on the bottom of the inner window frame makes it more visible for the users.
+Interaction with paper prototype: https://drive.google.com/file/d/1GKfZ-Q2vSYCNcCQ_f0KDHwVYbMhUIE34/view?usp=sharing
 
 ## Part E. Costume the device
 
@@ -132,14 +133,16 @@ Think about the setting of the device: is the environment a place where the devi
 \*\***Include sketches of what your device might look like here.**\*\*
 ![sketches](sketches.jpg)
 \*\***What concerns or opportunitities are influencing the way you've designed the device to look?**\*\*
-This device needs to be fixed on the inner side of a window. There's the risk that the device may fall down and get water damage. So a firm case for the phone is required. However, the best appearance of this device is a tiny bright light integrated into the inner window frame. 
+This device needs to be fixed on the inner side of a window. There's a risk that the device may fall down and get water damage. So a firm case for the phone is required. A set of high duty suction cups should be attached to the back of the case so it stays on the window frame. However, the best appearance of this device is a tiny bright light integrated into the inner window frame. 
 
 ## Part F. Record
 
 \*\***Take a video of your prototyped interaction.**\*\*
+I don't have a case with suction cups, so I used tapes for this video. 
+https://drive.google.com/file/d/1rYPGuyA_Cyolek6N5H6U5vs0-WIPC_7c/view?usp=sharing
 
 \*\***Please indicate anyone you collaborated with on this Lab.**\*\*
-I worked alone on this project and didn't refer to any resources. 
+I worked alone on this project and didn't refer to any resources. Peer feedbacks were offered by Kaiyuan Deng, Angela Chen, and Esther Fang.
 
 
 # Staging Interaction, Part 2 
