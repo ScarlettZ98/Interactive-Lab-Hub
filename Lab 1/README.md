@@ -156,6 +156,8 @@ You will be assigned three partners from another group. Go to their github pages
 
 \*\***Summarize feedback from your partners here.**\*\*
 
+Ruby Pan, Jenny Li, and Ruoyu Zhou gave me some good feedback. They all suggested that I could use different color of lights to show how heavy the incoming rain is. And one of them would like to see the light integrated into the window frame as a decoration. 
+
 ## Make it your own
 
 Do last week’s assignment again, but this time: 
@@ -164,3 +166,18 @@ Do last week’s assignment again, but this time:
 3) We will be grading with an emphasis on creativity. 
 
 \*\***Document everything here. (Particularly, we would like to see the storyboard and video, although photos of the prototype are also great.)**\*\*
+
+The setting is the same as the previous version: the device can inform the user if there will be a rain in the next 30 mins, and the user can decide if he or she needs to close the window. 
+Given the peer feedback, I improve the design to use different color (a color scheme) to forecast how strong the rain is. 
+
+Storyboard
+![storyboard2](storyboard2.jpg)
+
+New ideas during acting out:
+Instead of fixing the device to the window, I can make this device to be a decoration and hang it on the window frame. 
+In the case of an incoming mild rain that the user doesn't need to close the window, the device blinks dimly. And the user can manually turn it off rather than close the window. 
+
+Costume the device:
+![sketch2](sketch2.jpg)
+![costume](costume.jpg)
+
